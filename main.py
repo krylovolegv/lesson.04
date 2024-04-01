@@ -7,3 +7,5 @@ elif b < a:
     print("b menshe a")
 else:
     print("a ravno b")
+
+print("dontlookatme")
