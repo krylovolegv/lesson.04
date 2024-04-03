@@ -1,7 +1,6 @@
 for i in range(8):
     print("slovo")
 a,b = 9,8
-
 if a > b:
     print("a bolshe b")
 elif b < a:
