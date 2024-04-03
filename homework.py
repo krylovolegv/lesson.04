@@ -1,0 +1,1 @@
+print("ya so vsemi konfliktuyu")
