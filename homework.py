@@ -1,1 +1,2 @@
-print("ya so vsemi konfliktuyu")
+
+print("ya budu zhit'")
