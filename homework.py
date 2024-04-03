@@ -1,0 +1,2 @@
+
+print("ya budu zhit'")
